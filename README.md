@@ -1,6 +1,6 @@
 # Código do relatório de estágio
 
-Código dos *scripts* referidos no relatório de estágio do Mestrado em Ciência de Dados para Ciências Sociais (Universidade de Aveiro), sobre a análise de assinaturas de processo de máquinas de soldadura ultrassónica.
+Código dos 'scripts' referidos no relatório de estágio do Mestrado em Ciência de Dados para Ciências Sociais (Universidade de Aveiro), sobre a análise de assinaturas de processo de máquinas de soldadura ultrassónica.
 
 **Os dados não estão incluídos.** Os *scripts* esperam um ficheiro `Fused_All.csv` na pasta onde são executados (ou indicado com `--csv`, nos que têm essa opção). A pasta `data/` está vazia e serve apenas para indicar onde o colocar.
 
